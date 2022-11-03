@@ -1,0 +1,98 @@
+[
+	{
+		"id": "c79b5a95-4296-43e1-adbf-975cfea85204",
+		"name": "Orange",
+		"email": "mag@gmail.com",
+		"phone": "322-22-22"
+	},
+	{
+		"id": "04150d04-5717-4adb-8461-c113b5760b36",
+		"name": "Apple",
+		"email": "mango@gmail.com",
+		"phone": "322-22-22"
+	},
+	{
+		"id": "c2099da4-ac6e-4e7b-b30d-7252e5f185f7",
+		"name": "Kiwi",
+		"email": "mango@gmail.com",
+		"phone": "322-22-22"
+	},
+	{
+		"id": "0f2f2890-3949-439c-96a9-c3d14719a4b3",
+		"name": "Mango",
+		"email": "mango@gmail.com",
+		"phone": "322-22-22"
+	},
+	{
+		"id": "c83e83a8-b407-4c6e-a37e-ad29c0807208",
+		"name": "Mango",
+		"email": "mango@gmail.com",
+		"phone": "322-22-22"
+	},
+	{
+		"id": "ae6fdcc8-6a2f-4a3c-9ca9-0609af2d924d",
+		"name": "Mango",
+		"email": "mango@gmail.com",
+		"phone": "322-22-22"
+	},
+	{
+		"id": "1",
+		"name": "Allen Raymond",
+		"email": "nulla.ante@vestibul.co.uk",
+		"phone": "(992) 914-3792"
+	},
+	{
+		"id": "2",
+		"name": "Chaim Lewis",
+		"email": "dui.in@egetlacus.ca",
+		"phone": "(294) 840-6685"
+	},
+	{
+		"id": "3",
+		"name": "Kennedy Lane",
+		"email": "mattis.Cras@nonenimMauris.net",
+		"phone": "(542) 451-7038"
+	},
+	{
+		"id": "4",
+		"name": "Wylie Pope",
+		"email": "est@utquamvel.net",
+		"phone": "(692) 802-2949"
+	},
+	{
+		"id": "5",
+		"name": "Cyrus Jackson",
+		"email": "nibh@semsempererat.com",
+		"phone": "(501) 472-5218"
+	},
+	{
+		"id": "6",
+		"name": "Abbot Franks",
+		"email": "scelerisque@magnis.org",
+		"phone": "(186) 568-3720"
+	},
+	{
+		"id": "7",
+		"name": "Reuben Henry",
+		"email": "pharetra.ut@dictum.co.uk",
+		"phone": "(715) 598-5792"
+	},
+	{
+		"id": "8",
+		"name": "Simon Morton",
+		"email": "dui.Fusce.diam@Donec.com",
+		"phone": "(233) 738-2360"
+	},
+	{
+		"id": "9",
+		"name": "Thomas Lucas",
+		"email": "nec@Nulla.com",
+		"phone": "(704) 398-7993"
+	},
+	{
+		"id": "10",
+		"name": "Alec Howard",
+		"email": "Donec.elementum@scelerisquescelerisquedui.net",
+		"phone": "(748) 206-2688"
+	}
+]
